@@ -2,7 +2,7 @@
 
 include 'db_config.php';
 
-// Get form data
+
 $name = $_POST['name'];
 $email = $_POST['email'];
 $password = $_POST['password'];
